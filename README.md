@@ -32,7 +32,7 @@ I develop solutions across multiple programming languages and frameworks. My wor
 - **Portfolio:** https://cozyportfolio.netlify.app
 - **Twitter:** @Cozmorry
 - **Telegram:** https://t.me/Cozmorry
-- **WhatsApp:** https://wa.me/cozmorry
+- **WhatsApp:** https://wa.me/coz.morry
 - **Bluesky:** coz.morry
 
 ---
